@@ -54,6 +54,7 @@ cursor: pointer;
   font-weight: 700;
   white-space: nowrap;
   display: inline-block;
+  cursor: pointer;
 }
 .categories {
   margin-left: auto;
